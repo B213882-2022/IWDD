@@ -1,4 +1,3 @@
-<!-- Codes are modified from from the scripts provided in course: 'Introduction to Website and Database Design for Drug Discovery' lectured by Dr. Paul Taylor. -->
 <?php
 session_start(); //start 'SESSION' to record information used between different scripts
 require_once 'login.php';  //run login.php
